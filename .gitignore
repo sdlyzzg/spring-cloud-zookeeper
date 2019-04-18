@@ -3,6 +3,12 @@
 
 # Log file
 *.log
+*.gz
+*.bz
+*.tar
+
+# pid file
+*.pid
 
 # BlueJ files
 *.ctxt
