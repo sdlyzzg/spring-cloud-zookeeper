@@ -4,7 +4,7 @@
 ## 环境
 * spring boot使用2.1.4版本
 * spring cloud使用Greenwich.SR1
-* zookeeper集群使用3.4.13
+* zookeeper集群使用3.4.14
 
 ## 简介
 * gateway使用 spring cloud gateway作为网关服务
